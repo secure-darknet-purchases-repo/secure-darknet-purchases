@@ -126,3 +126,5 @@ PGP encryption is essential for secure communication.
 Secure darknet purchases require diligence, knowledge, and a commitment to security best practices. By understanding the risks, utilizing appropriate tools, and following the guidelines in this article, you can significantly reduce your risk and enjoy a safer experience. Always prioritize your security.
 
 Plase contribute and add stars to this repo.
+
+Update: Email links
