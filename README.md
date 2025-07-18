@@ -127,4 +127,6 @@ Secure darknet purchases require diligence, knowledge, and a commitment to secur
 
 Plase contribute and add stars to this repo.
 
-Update: Email links
+
+
+Update:  18 July
