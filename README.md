@@ -129,4 +129,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  18 July
+
+
+Update: URLs repaired
