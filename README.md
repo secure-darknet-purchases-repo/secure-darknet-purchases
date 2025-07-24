@@ -131,4 +131,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: URLs repaired
+
+
+Update:  24.07.2025 Verified all navigation links are working
